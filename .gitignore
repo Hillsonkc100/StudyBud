@@ -1,0 +1,7 @@
+  .gitignore
+        StudyBud/
+        base/
+        db.sqlite3
+        manage.py
+        templates/
+        venv/
